@@ -10,3 +10,6 @@ Inspiration came from this post on MAKE magazine:  [Awesome Button](http://makez
 * Red LED
 * Tic-Tac Box
 * Mini B USB cable
+
+
+The first version of this was the KeyStroker I, which I've provided the sketch for.   It was inspired based on this post on the [petrockblog](http://blog.petrockblock.com/2012/05/19/usb-keyboard-with-arduino-and-v-usb-library-an-example/) 
